@@ -1,0 +1,8 @@
+logs/
+__pycache__/
+*.pyc
+.env
+env
+.git
+*.md
+create_table.sql
